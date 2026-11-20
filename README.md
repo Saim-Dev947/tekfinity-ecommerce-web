@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Tekfinity — Premium E-Commerce Store
 
 A complete, production-ready e-commerce platform for AirPods & accessories in Pakistan.
@@ -113,3 +114,7 @@ database/
   seed.sql                   # demo data
 data/local/       # runtime JSON store (demo mode, git-ignored)
 ```
+=======
+# tekfinity-ecommerce-web
+Production-ready e-commerce platform for premium tech accessories in Pakistan, featuring product management, shopping cart, secure checkout, order tracking, admin dashboard, and payment management. Built with Next.js 14, TypeScript, Tailwind CSS, Supabase (PostgreSQL &amp; Auth), Framer Motion, and REST APIs.
+>>>>>>> 513c24724df3c0a1d824c9a8610dd201910fd92a
